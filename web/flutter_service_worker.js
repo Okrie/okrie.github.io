@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "6e408c07f28d2440d5673a7aff08cbb1",
-"assets/AssetManifest.bin.json": "f7c7e92cd7c15f2b70bf49c6ecfe3396",
-"assets/AssetManifest.json": "4e96ba9ae7da28f057f358a62d9b5770",
+const RESOURCES = {"assets/AssetManifest.bin": "217e0846d54869ee763ad6722bda7f4f",
+"assets/AssetManifest.bin.json": "fa2c5560053797335810c55ee74da6bf",
+"assets/AssetManifest.json": "b3fc34563abb67e6d79c71a6e96caaf1",
 "assets/FontManifest.json": "ec8a82ec184cf6cd45fbf68291b1fe6b",
 "assets/fonts/MaterialIcons-Regular.otf": "1cb08a2e7fed9b5f141ec4b52ae3865f",
 "assets/images/aiphotographer.png": "2dd8492feb73c5a0a17a49a392ee1a6f",
@@ -13,7 +13,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "6e408c07f28d2440d5673a7aff08cbb1
 "assets/images/Real%2520Estate_Spring.png": "c63024924f9ea3771f6d520dc49b9690",
 "assets/images/SteamGame_Recommend.png": "66be5d453c4cf07eed72bf688425a030",
 "assets/images/Swift%2520TodoList.png": "4fd96b3e9ebf94f554c81f070dfc749b",
-"assets/NOTICES": "aab7ef2787edd77350106d5062b8cbca",
+"assets/NOTICES": "4ecc13d749dace60d6fa21c62416beb4",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/simple_icons/fonts/SimpleIcons.ttf": "429f4878395a78daa21abc07b2954fd9",
 "assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
@@ -30,9 +30,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "6e408c07f28d2440d5673a7aff08cbb1
 "icons/Icon-512.png": "5a8f95e3cd08ef7a34f75f6b5f99ee38",
 "icons/Icon-maskable-192.png": "5a8f95e3cd08ef7a34f75f6b5f99ee38",
 "icons/Icon-maskable-512.png": "5a8f95e3cd08ef7a34f75f6b5f99ee38",
-"index.html": "f1ba3c113d21dabf6a8d1309adf4eeef",
-"/": "f1ba3c113d21dabf6a8d1309adf4eeef",
-"main.dart.js": "972b1f0d3630e4d37067a3474276edfb",
+"index.html": "1f7f5201ee34bca9055d005d409911fb",
+"/": "1f7f5201ee34bca9055d005d409911fb",
+"main.dart.js": "1ff3a4eab41495d35df64619f2e32c2a",
 "manifest.json": "9fd76641482dfeda945779f590aa877d",
 "version.json": "30b61f459619ad3786ab60220bed4b41"};
 // The application shell files that are downloaded before a service worker can
