@@ -21735,7 +21735,7 @@ _.k1=a9},
 ad5(){var s=0,r=A.R(t.z),q,p,o,n,m,l
 var $async$ad5=A.S(function(a,b){if(a===1)return A.O(b,r)
 while(true)switch(s){case 0:s=2
-return A.Y($.QQ().u5(0,".env"),$async$ad5)
+return A.Y($.QQ().u5(0,"env"),$async$ad5)
 case 2:if($.ar==null)A.IB()
 q=$.ar
 q.toString
